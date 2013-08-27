@@ -1,0 +1,191 @@
+RetroShare:: Successfully Installedthe SIGPIPE Block
+Hashed main executable: 20f7b77d37244c6df660eacf9fa40295383098f6
+retroShare::basedir() -> $HOME = /home/ramirez
+Creating Root Retroshare Config Directories
+Pubring read successfully.
+Secring read successfully.
+PGPHandler: Successfully read 3 trust packets.
+getAvailableAccounts()
+Checking Account Id: 6e42bb2dbbce67d2fedc075763e51abd
+ * Preferred * 
+RsTryAutoLogin()
+Using attribute: 6e42bb2dbbce67d2fedc075763e51abd
+Could not get passwd from gnome keyring
+getRetroshareDataDirectory() Linux: /usr/share/RetroShareData Directory not Found: /usr/share/RetroShare
+AuthGPG::GPGInit() called with own gpg id : 3482171D9669F3F4
+Invalid Certificate
+AuthGPG::GPGInit finished.
+PGP Auth Success! ID: 3482171D9669F3F4
+RsTryAutoLogin()
+Using attribute: 6e42bb2dbbce67d2fedc075763e51abd
+Could not get passwd from gnome keyring
+opening sslPassphraseFile : /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/keys/ssl_passphrase.pgp
+pgp_pwd_callback() called.
+RetroShare:: Successfully Installedthe SIGPIPE Block
+Hashed main executable: 20f7b77d37244c6df660eacf9fa40295383098f6
+retroShare::basedir() -> $HOME = /home/ramirez
+Creating Root Retroshare Config Directories
+Pubring read successfully.
+Secring read successfully.
+PGPHandler: Successfully read 3 trust packets.
+getAvailableAccounts()
+Checking Account Id: 6e42bb2dbbce67d2fedc075763e51abd
+ * Preferred * 
+RsTryAutoLogin()
+Using attribute: 6e42bb2dbbce67d2fedc075763e51abd
+Could not get passwd from gnome keyring
+getRetroshareDataDirectory() Linux: /usr/share/RetroShareData Directory not Found: /usr/share/RetroShare
+AuthGPG::GPGInit() called with own gpg id : 3482171D9669F3F4
+Invalid Certificate
+AuthGPG::GPGInit finished.
+PGP Auth Success! ID: 3482171D9669F3F4
+RsTryAutoLogin()
+Using attribute: 6e42bb2dbbce67d2fedc075763e51abd
+Could not get passwd from gnome keyring
+opening sslPassphraseFile : /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/keys/ssl_passphrase.pgp
+pgp_pwd_callback() called.
+Decrypting went ok !
+sslpassword: ******************** (length = 64)
+RsInitConfig::load_key.c_str() : /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/keys/user_pk.pem
+SSL Library Init!
+SSL Verification Set
+Creating Init File: /home/ramirez/.retroshare/default_cert.txt
+	Id: 6e42bb2dbbce67d2fedc075763e51abd
+getRetroshareDataDirectory() Linux: /usr/share/RetroShareData Directory not Found: /usr/share/RetroShare
+AuthSSLimpl::InitAuth already initialized.
+set the debugging to crashMode.
+Detected Old Crash File: /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/retro.log
+Copying to: /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/retro.log-save
+Logging redirected to /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/retro.log
+Switching To CrashLog Mode!
+Load up Certificates, and Old Configuration (if present).
+setup classes / structures
+Checking for DHT bootstrap file: /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/bdboot.txt
+DHT bootstrap file not in ConfigDir: /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/bdboot.txt
+getRetroshareDataDirectory() Linux: /usr/share/RetroShareData Directory not Found: /usr/share/RetroShare
+Checking for Installation DHT bootstrap file /bdboot.txt
+No Installation DHT bootstrap file to copy
+Failed to Open File: /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/bdboot.txt ... No Peers
+bdNode::setNodeDhtMode(768), origFlags: 0
+bdNode::setNodeDhtMode() newFlags: 768
+p3BitDht::setRelayMode(17)
+bdNode::setNodeDhtMode(4096), origFlags: 768
+bdSpace::clean_node_flags(524288)
+bdSpace::clean_node_flags() Cleaned 0 Matching Peers
+bdNode::setNodeDhtMode() newFlags: 4864
+RsPluginManager::loadList(): 
+   Reference executable hash: 20f7b77d37244c6df660eacf9fa40295383098f6
+(II) Executable hash matches. Updating the list of accepted/rejected plugins.
+Plugin directory : /usr/lib/retroshare/extensions/ does not exist.
+Plugin directory : /home/ramirez/.retroshare/extensions/ does not exist.
+Examined a total of 0 plugins.
+PluginManager: saving list.
+  Saving current executable hash: 20f7b77d37244c6df660eacf9fa40295383098f6
+RsPluginManager::setInterfaces()  
+p3turtle: registered new tunnel service 0x96bae90
+p3turtle: registered new tunnel service 0x96ca8c4
+p3turtle: registered new tunnel service 0x96cb46c
+  Registering pqi services.
+  Registering cache services.
+RsPluginManager::loadList(): 
+   Reference executable hash: 20f7b77d37244c6df660eacf9fa40295383098f6
+(II) Executable hash matches. Updating the list of accepted/rejected plugins.
+  Registering configuration files.
+(2) Load configuration files
+rsUdpStack::resetListener([10.0.2.15:49612])
+UdpStack::resetAddress([10.0.2.15:49612])
+rsFixedUdpStack::resetListener([10.0.2.15:49612]) Resetting with original addr: [0.0.0.0:0]
+UdpStack::resetAddress([0.0.0.0:0])
+Local changes in trust database. Writing to disk...
+Done.
+rsUdpStack::resetListener([10.0.2.15:49612])
+UdpStack::resetAddress([10.0.2.15:49612])
+rsFixedUdpStack::resetListener([10.0.2.15:49612]) Resetting with original addr: [0.0.0.0:0]
+UdpStack::resetAddress([0.0.0.0:0])
+Loaded service permission item: 
+   E3E712E84E769086 - 00000000 00000000 00000000 0000IIII 
+setting use_extr_addr_finder to 1
+setting allow_tunnel_connection to 0
+Note: loading active max downloads: 5
+Note: loading min prioritized downloads: 3
+Note: loading default value for chunk strategy: progressive
+have read a size limit of 100 MB
+ftController::loadList(): Error: could not find hash 8bde400712e5fca834598b240569508a358da583 in mDownloads list !
+Storing the map in a wait list.
+RsPluginManager::loadList(): 
+   Reference executable hash: 20f7b77d37244c6df660eacf9fa40295383098f6
+(II) Executable hash matches. Updating the list of accepted/rejected plugins.
+p3turtle: Set max tr up rate to 20
+Setting max TR forward rate to 20
+p3BitDht::loadList()
+BITDHT Load Item:
+RsItem: RsConfigKeyValueSet ####################################
+  RsTlvItem: RsTlvKeyValue Size: 357  ***********************
+  RsTlvItem: RsTlvKeyValue Size: 37  ***********************
+    Key:RELAY_CLASS0_COUNT    Value:2
+  ********************** RsTlvKeyValue *********************
+  RsTlvItem: RsTlvKeyValue Size: 41  ***********************
+    Key:RELAY_CLASS0_BANDWIDTH    Value:0
+  ********************** RsTlvKeyValue *********************
+  RsTlvItem: RsTlvKeyValue Size: 37  ***********************
+    Key:RELAY_CLASS1_COUNT    Value:1
+  ********************** RsTlvKeyValue *********************
+  RsTlvItem: RsTlvKeyValue Size: 44  ***********************
+    Key:RELAY_CLASS1_BANDWIDTH    Value:1024
+  ********************** RsTlvKeyValue *********************
+  RsTlvItem: RsTlvKeyValue Size: 37  ***********************
+    Key:RELAY_CLASS2_COUNT    Value:1
+  ********************** RsTlvKeyValue *********************
+  RsTlvItem: RsTlvKeyValue Size: 44  ***********************
+    Key:RELAY_CLASS2_BANDWIDTH    Value:1024
+  ********************** RsTlvKeyValue *********************
+  RsTlvItem: RsTlvKeyValue Size: 37  ***********************
+    Key:RELAY_CLASS3_COUNT    Value:0
+  ********************** RsTlvKeyValue *********************
+  RsTlvItem: RsTlvKeyValue Size: 44  ***********************
+    Key:RELAY_CLASS3_BANDWIDTH    Value:1024
+  ********************** RsTlvKeyValue *********************
+  RsTlvItem: RsTlvKeyValue Size: 30  ***********************
+    Key:RELAY_MODE    Value:17
+  ********************** RsTlvKeyValue *********************
+  ********************** RsTlvKeyValue *********************
+###################### RsConfigKeyValueSet #####################
+p3BitDht::loadList() Found Count(0): 2
+p3BitDht::loadList() Found Bandwidth(0): 0
+p3BitDht::loadList() Found Count(1): 1
+p3BitDht::loadList() Found Bandwidth(1): 1024
+p3BitDht::loadList() Found Count(2): 1
+p3BitDht::loadList() Found Bandwidth(2): 1024
+p3BitDht::loadList() Found Count(3): 0
+p3BitDht::loadList() Found Bandwidth(3): 1024
+p3BitDht::loadList() Found Mode: 17
+p3BitDht::setRelayMode(17)
+bdNode::setNodeDhtMode(4096), origFlags: 4864
+bdNode::setNodeDhtMode() newFlags: 4864
+p3ServerConfig::switchToOperatingMode(1)
+p3ServerConfig::switchToOperatingMode() D/L: 200 U/L: 50
+p3ServerConfig::switchToOperatingMode() Turtle Mode: 1
+Enabling turtle routing for this Session
+Force Any Configuration before Startup (After Load)
+getRetroshareDataDirectory() Linux: /usr/share/RetroShareData Directory not Found: /usr/share/RetroShare
+Warning: PQInterface::SendItem(RsItem*,uint32_t&) calledbut not overloaded! Serialized size will not be returned.
+pqipersongrp::addPeer() id: d8b604b925cdaa0dd2805df8405570a3
+setting palette 1
+MessagesDialog::insertMessages calledMessagesDialog::insertMessages()
+Wrong string passed to getGPGDetails: "CONFIG"
+MessagesDialog::insertMsgTxtAndFiles()
+Looking for interfaces in existing plugins:
+connecting signals and slots
+Enabling notification system
+MessagesDialog::insertMessages calledMessagesDialog::insertMessages()
+Wrong string passed to getGPGDetails: "CONFIG"
+Failed to Open File: /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/bdboot.txt ... No Peers
+p3NetMgrIMPL::netExtCheck() netSetupDone
+p3PeerMgrIMPL::UpdateOwnAddress(10.0.2.15:49612, 178.13.10.43:49612)
+bdNodeManager::iteration(): FAILED ==> STARTUP
+Failed to Open File: /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/bdboot.txt ... No Peers
+bdNodeManager::iteration(): FAILED ==> STARTUP
+Failed to Open File: /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/bdboot.txt ... No Peers
+bdNodeManager::iteration(): FAILED ==> STARTUP
+Failed to Open File: /home/ramirez/.retroshare/6e42bb2dbbce67d2fedc075763e51abd/bdboot.txt ... No Peers
+NetworkView::updateDisplay()
